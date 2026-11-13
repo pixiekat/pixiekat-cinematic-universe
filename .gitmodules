@@ -2,3 +2,7 @@
 	path = radio-stations/the-nerve
 	url = git@github.com:pixiekat/nerve-fm-docs.git
 	branch = main
+[submodule "wrestling/aswf"]
+	path = wrestling/aswf
+	url = git@github.com:pixiekat/aswf-wrestling-docs.git
+	branch = main
