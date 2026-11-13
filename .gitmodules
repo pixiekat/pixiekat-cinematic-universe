@@ -1,0 +1,4 @@
+[submodule "radio-stations/the-nerve"]
+	path = radio-stations/the-nerve
+	url = git@github.com:pixiekat/nerve-fm-docs.git
+	branch = main
